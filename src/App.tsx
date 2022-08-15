@@ -1,7 +1,4 @@
 import React, { useState } from 'react';
-import Graph from './components/graph';
-
-import { Font } from './components/fonts';
 import CurrencyExchangeIcon from '@mui/icons-material/CurrencyExchange';
 
 import { ThemeProvider, createTheme } from '@mui/material/styles';
@@ -16,7 +13,6 @@ import SearchIcon from '@mui/icons-material/Search';
 import Brightness4Icon from '@mui/icons-material/Brightness4';
 import Brightness7Icon from '@mui/icons-material/Brightness7';
 import { amber, blue, blueGrey, deepOrange, grey, purple } from '@mui/material/colors';
-import {ToggleColorMode} from './components/changemode'
 import {
   Chart as ChartJS,
   CategoryScale,

@@ -272,7 +272,6 @@ export function App() {
             width="100%"
             height="100%"
           >
-            <Spline scene="https://prod.spline.design/DgkYemJz8YZ31YSP/scene.splinecode" />
           </Box>
         </Box>
       <Box     

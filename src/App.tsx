@@ -391,7 +391,6 @@ export function App() {
       sx={{alignItems:"center", margin: "auto", width: "70%"}}>
         <Typography 
             fontFamily={"JetBrains Mono"}textAlign={"center"} variant="h4">Statistics</Typography>
-        <Line options={options} data={data} />
       </Box>
       </ThemeProvider>
     </Box>
